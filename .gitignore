@@ -1,0 +1,15 @@
+*.v2
+*.suo
+*.json
+*.dll
+*.exe
+*.pdb
+netcoreapp3.1
+*.targets
+*.cache
+*.props
+*.sln
+*.sqlite
+*.testlog
+*.manifest
+*.zip
