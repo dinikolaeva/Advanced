@@ -12,4 +12,3 @@ netcoreapp3.1
 *.sqlite
 *.testlog
 *.manifest
-*.zip
