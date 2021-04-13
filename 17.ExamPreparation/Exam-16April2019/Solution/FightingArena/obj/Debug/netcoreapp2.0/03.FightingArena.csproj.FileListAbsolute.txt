@@ -1,0 +1,12 @@
+D:\ProjectsVisualBasics\03.Advanced & OOP\01.Advanced\17.ExamPreparation\Exam-16April2019\ProblemDescription\FightingArena\FightingArena\bin\Debug\netcoreapp2.0\03.FightingArena.deps.json
+D:\ProjectsVisualBasics\03.Advanced & OOP\01.Advanced\17.ExamPreparation\Exam-16April2019\ProblemDescription\FightingArena\FightingArena\bin\Debug\netcoreapp2.0\03.FightingArena.runtimeconfig.json
+D:\ProjectsVisualBasics\03.Advanced & OOP\01.Advanced\17.ExamPreparation\Exam-16April2019\ProblemDescription\FightingArena\FightingArena\bin\Debug\netcoreapp2.0\03.FightingArena.runtimeconfig.dev.json
+D:\ProjectsVisualBasics\03.Advanced & OOP\01.Advanced\17.ExamPreparation\Exam-16April2019\ProblemDescription\FightingArena\FightingArena\bin\Debug\netcoreapp2.0\03.FightingArena.dll
+D:\ProjectsVisualBasics\03.Advanced & OOP\01.Advanced\17.ExamPreparation\Exam-16April2019\ProblemDescription\FightingArena\FightingArena\bin\Debug\netcoreapp2.0\03.FightingArena.pdb
+D:\ProjectsVisualBasics\03.Advanced & OOP\01.Advanced\17.ExamPreparation\Exam-16April2019\ProblemDescription\FightingArena\FightingArena\obj\Debug\netcoreapp2.0\03.FightingArena.csprojAssemblyReference.cache
+D:\ProjectsVisualBasics\03.Advanced & OOP\01.Advanced\17.ExamPreparation\Exam-16April2019\ProblemDescription\FightingArena\FightingArena\obj\Debug\netcoreapp2.0\03.FightingArena.AssemblyInfoInputs.cache
+D:\ProjectsVisualBasics\03.Advanced & OOP\01.Advanced\17.ExamPreparation\Exam-16April2019\ProblemDescription\FightingArena\FightingArena\obj\Debug\netcoreapp2.0\03.FightingArena.AssemblyInfo.cs
+D:\ProjectsVisualBasics\03.Advanced & OOP\01.Advanced\17.ExamPreparation\Exam-16April2019\ProblemDescription\FightingArena\FightingArena\obj\Debug\netcoreapp2.0\03.FightingArena.csproj.CoreCompileInputs.cache
+D:\ProjectsVisualBasics\03.Advanced & OOP\01.Advanced\17.ExamPreparation\Exam-16April2019\ProblemDescription\FightingArena\FightingArena\obj\Debug\netcoreapp2.0\03.FightingArena.dll
+D:\ProjectsVisualBasics\03.Advanced & OOP\01.Advanced\17.ExamPreparation\Exam-16April2019\ProblemDescription\FightingArena\FightingArena\obj\Debug\netcoreapp2.0\03.FightingArena.pdb
+D:\ProjectsVisualBasics\03.Advanced & OOP\01.Advanced\17.ExamPreparation\Exam-16April2019\ProblemDescription\FightingArena\FightingArena\obj\Debug\netcoreapp2.0\03.FightingArena.genruntimeconfig.cache
