@@ -1,0 +1,23 @@
+C:\Users\atana\source\repos\Repository\Repository\bin\Debug\netcoreapp2.1\Repository.deps.json
+C:\Users\atana\source\repos\Repository\Repository\bin\Debug\netcoreapp2.1\Repository.runtimeconfig.json
+C:\Users\atana\source\repos\Repository\Repository\bin\Debug\netcoreapp2.1\Repository.runtimeconfig.dev.json
+C:\Users\atana\source\repos\Repository\Repository\bin\Debug\netcoreapp2.1\Repository.dll
+C:\Users\atana\source\repos\Repository\Repository\bin\Debug\netcoreapp2.1\Repository.pdb
+C:\Users\atana\source\repos\Repository\Repository\obj\Debug\netcoreapp2.1\Repository.csprojAssemblyReference.cache
+C:\Users\atana\source\repos\Repository\Repository\obj\Debug\netcoreapp2.1\Repository.csproj.CoreCompileInputs.cache
+C:\Users\atana\source\repos\Repository\Repository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfoInputs.cache
+C:\Users\atana\source\repos\Repository\Repository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfo.cs
+C:\Users\atana\source\repos\Repository\Repository\obj\Debug\netcoreapp2.1\Repository.dll
+C:\Users\atana\source\repos\Repository\Repository\obj\Debug\netcoreapp2.1\Repository.pdb
+D:\ProjectsVisualBasics\03.Advanced & OOP\01.Advanced\17.ExamPreparation\Exam-17Feb2019\Solution\Repository\bin\Debug\netcoreapp2.1\Repository.deps.json
+D:\ProjectsVisualBasics\03.Advanced & OOP\01.Advanced\17.ExamPreparation\Exam-17Feb2019\Solution\Repository\bin\Debug\netcoreapp2.1\Repository.runtimeconfig.json
+D:\ProjectsVisualBasics\03.Advanced & OOP\01.Advanced\17.ExamPreparation\Exam-17Feb2019\Solution\Repository\bin\Debug\netcoreapp2.1\Repository.runtimeconfig.dev.json
+D:\ProjectsVisualBasics\03.Advanced & OOP\01.Advanced\17.ExamPreparation\Exam-17Feb2019\Solution\Repository\bin\Debug\netcoreapp2.1\Repository.dll
+D:\ProjectsVisualBasics\03.Advanced & OOP\01.Advanced\17.ExamPreparation\Exam-17Feb2019\Solution\Repository\bin\Debug\netcoreapp2.1\Repository.pdb
+D:\ProjectsVisualBasics\03.Advanced & OOP\01.Advanced\17.ExamPreparation\Exam-17Feb2019\Solution\Repository\obj\Debug\netcoreapp2.1\Repository.csprojAssemblyReference.cache
+D:\ProjectsVisualBasics\03.Advanced & OOP\01.Advanced\17.ExamPreparation\Exam-17Feb2019\Solution\Repository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfoInputs.cache
+D:\ProjectsVisualBasics\03.Advanced & OOP\01.Advanced\17.ExamPreparation\Exam-17Feb2019\Solution\Repository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfo.cs
+D:\ProjectsVisualBasics\03.Advanced & OOP\01.Advanced\17.ExamPreparation\Exam-17Feb2019\Solution\Repository\obj\Debug\netcoreapp2.1\Repository.csproj.CoreCompileInputs.cache
+D:\ProjectsVisualBasics\03.Advanced & OOP\01.Advanced\17.ExamPreparation\Exam-17Feb2019\Solution\Repository\obj\Debug\netcoreapp2.1\Repository.dll
+D:\ProjectsVisualBasics\03.Advanced & OOP\01.Advanced\17.ExamPreparation\Exam-17Feb2019\Solution\Repository\obj\Debug\netcoreapp2.1\Repository.pdb
+D:\ProjectsVisualBasics\03.Advanced & OOP\01.Advanced\17.ExamPreparation\Exam-17Feb2019\Solution\Repository\obj\Debug\netcoreapp2.1\Repository.genruntimeconfig.cache
